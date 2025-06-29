@@ -1,9 +1,8 @@
-### 🥳Yoo, 欢迎来到可执行程序的介绍
+### 🥳ℋ𝒾! ℱ𝓇𝒾ℯ𝓃𝒹!
 
-#### 关于我的项目
+**ℋℯ𝓇ℯ'𝓈 𝓂𝓎 𝒢𝒾𝓉𝒽𝓊𝒷 𝒫ℯ𝓇𝓈ℴ𝓃𝒶𝓁 𝒫𝓇ℴ𝒻𝒾𝓁ℯ**
 
-- 📤计算器（Gitee）
-- 🔴音频播放器（Gitee）
-- 🥳博客（Github/Gitee）
-
-人生无常，大肠包小肠
+[![](https://img.shields.io/badge/BiliBili-Follow_ME!!!-pink?logo=bilibili)](https://space.bilibili.com/3537111871392719)
+[![](https://img.shields.io/badge/@exef_star-black?logo=github)](https://github.com/exef-star)
+[![](https://img.shields.io/badge/My-Web%20Blog-white)](https://blog.hanta2011.top)
+[![](https://img.shields.io/badge/Another-Web%20Blog-blue)](https://blog-1.hanta2011.top)
