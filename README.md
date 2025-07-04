@@ -1,5 +1,7 @@
 # 🥳ℋ𝒾! ℐ'𝓂 ℋ𝒶𝓃𝓉𝒶(ℯ𝓍ℯ𝒻-𝓈𝓉𝒶𝓇)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<img align='right' src="https://img.picui.cn/free/2025/07/04/6867cc24db500.png" width="230">
+
 ℋℯ𝓇ℯ'𝓈 𝓂𝓎 𝒢𝒾𝓉𝒽𝓊𝒷 𝒫ℯ𝓇𝓈ℴ𝓃𝒶𝓁 𝒫𝓇ℴ𝒻𝒾𝓁ℯ   ⊂(・∀・)つ
 
 𝐴 💻𝑝𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑒𝑟 𝑎𝑛𝑑 𝑎 📝𝑠𝑡𝑢𝑑𝑒𝑛𝑡 (*ﾟーﾟ)
