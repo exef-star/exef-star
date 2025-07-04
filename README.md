@@ -39,6 +39,14 @@
 ![Vercel](https://img.shields.io/badge/-𝚅𝚎𝚛𝚌𝚎𝚕-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Render](https://img.shields.io/badge/-𝚁𝚎𝚗𝚍𝚎𝚛-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
+### 𝒞ℴ𝓃𝓉𝓇𝒾𝒷𝓊𝓉𝒾ℴ𝓃 (´⊙ω⊙`)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
+  <img alt="github-snake" src="./assets/contribution-snake.svg" />
+</picture>
+
 ### ℳ𝓎 𝒢𝒾𝓉ℋ𝓊𝒷 𝓅ℯ𝓇𝓈ℴ𝓃𝒶𝓁 𝒹𝒶𝓈𝒽𝒷ℴ𝒶𝓇𝒹 𝒹ℯ𝓉𝒶𝒾𝓁𝓈 ٩(｡・ω・｡)﻿و
 
 [![Hanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=exef-star&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
