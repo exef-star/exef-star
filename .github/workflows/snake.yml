@@ -8,7 +8,7 @@ on:
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
-
+    
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -20,9 +20,13 @@ jobs:
           outputs: |
             assets/contribution-snake.svg
             assets/contribution-snake-dark.svg?palette=github-dark
+          # 使用 PAT 认证（可选，若权限声明无效时使用）
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
         with:
           branch: main
           message: "chore: generate contribution snake"
+          # 显式使用 PAT 认证
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
