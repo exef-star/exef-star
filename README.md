@@ -42,3 +42,4 @@
 ### ℳ𝓎 𝒢𝒾𝓉ℋ𝓊𝒷 𝓅ℯ𝓇𝓈ℴ𝓃𝒶𝓁 𝒹𝒶𝓈𝒽𝒷ℴ𝒶𝓇𝒹 𝒹ℯ𝓉𝒶𝒾𝓁𝓈 ٩(｡・ω・｡)﻿و
 
 [![Hanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=exef-star&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-colour93.vercel.app/api/top-langs/?username=exef-star&layout=compact&locale=en&bg_color=45,ffffff,ffffff&text_color=383838&title_color=1890ff&icon_color=597Ff7)](https://github.com/exef-star)
